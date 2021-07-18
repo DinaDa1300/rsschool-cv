@@ -6,6 +6,7 @@ Diana Averina
 Christchurch                        
 New Zealand    
 averinadiana@mail.ru
+
 +64220321041
 -------------------     ----------------------------
 
@@ -45,9 +46,9 @@ My Cool Side Project
 Programming Languages
 :   **JavaScript:** Just a beginner, sorry.
 
-:   **HTML:** Started learning 10 days ago. 
+**HTML:** Started learning 10 days ago. 
 
-:   Basic knowledge of **CSS**, **Vernon**
+Basic knowledge of **CSS**, **Vernon**
 
 My life
 ----------------------------------------
