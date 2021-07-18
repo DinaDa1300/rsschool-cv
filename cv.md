@@ -2,9 +2,11 @@ Diana Averina
 ============
 
 -------------------     ----------------------------
-39 Creyke Rd.                        averinadiana@mail.ru
+39 Creyke Rd.                       
 Christchurch                        
-New Zealand                         +64220321041
+New Zealand    
+averinadiana@mail.ru
++64220321041
 -------------------     ----------------------------
 
 Education
@@ -17,7 +19,7 @@ Education
 :   **Candidate of Historical Sciences**; Taurida National V.I. Vernadsky University
     Simferopol
 
-  1999-2004
+1999-2004
 :   **Master of Arts in History**; Taurida National V.I. Vernadsky University
     Simferopol  
 
@@ -45,13 +47,10 @@ Programming Languages
 
 :   **HTML:** Started learning 10 days ago. 
 
-:  
-
 :   Basic knowledge of **CSS**, **Vernon**
 
 My life
 ----------------------------------------
-
 * Human Languages:
 
      * English (Advanced, proved by IELTS)
