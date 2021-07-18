@@ -51,11 +51,10 @@ Programming Languages
 
 Basic knowledge of **CSS**, **Vernon**
 
-My life
-----------------------------------------
-* Human Languages:
 
-     ** English (Advanced, proved by IELTS)
+Human Languages
+----------------------------------------
+     * English (Advanced, proved by overall band score 8+ in IELTS)
      * Russian (native speaker)
      * Ukrainian (native speaker)
      * Te Reo Maori (Beginner)
