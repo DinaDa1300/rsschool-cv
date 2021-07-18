@@ -38,13 +38,14 @@ Taught History a lot.
 Non-technical Experience
 --------------------
 
-My Cool Side Project
-:   My 3 daughters.
-:   Online course on Project Management by Google and Coursera.
+**My Cool Side Project:**
+* My 3 daughters.
+* Online course on Project Management by Google and Coursera.
 
 
 Programming Languages
-:   **JavaScript:** Just a beginner, sorry.
+--------------------
+**JavaScript:** Just a beginner, sorry.
 
 **HTML:** Started learning 10 days ago. 
 
@@ -54,7 +55,7 @@ My life
 ----------------------------------------
 * Human Languages:
 
-     * English (Advanced, proved by IELTS)
+     ** English (Advanced, proved by IELTS)
      * Russian (native speaker)
      * Ukrainian (native speaker)
      * Te Reo Maori (Beginner)
