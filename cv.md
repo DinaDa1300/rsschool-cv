@@ -45,6 +45,7 @@ Non-technical Experience
 
 Programming Languages
 --------------------
+
 **JavaScript:** Just a beginner, sorry.
 
 **HTML:** Started learning 10 days ago. 
@@ -53,8 +54,9 @@ Basic knowledge of **CSS**, **Vernon**
 
 
 Human Languages
-----------------------------------------
-     * English (Advanced, proved by overall band score 8+ in IELTS)
-     * Russian (native speaker)
-     * Ukrainian (native speaker)
-     * Te Reo Maori (Beginner)
+-------------------
+
+  * English (Advanced, proved by overall band score 8+ in IELTS)
+  * Russian (native speaker)
+  * Ukrainian (native speaker)
+  * Te Reo Maori (Beginner)
